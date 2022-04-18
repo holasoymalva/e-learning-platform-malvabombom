@@ -1,1 +1,1 @@
-# e-learning-platform-malvabombom
+# e-learning-react-platform-malvabombom
